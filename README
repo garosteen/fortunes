@@ -1,0 +1,9 @@
+This is a custom fortunes directory.
+
+The template for the makefile was borrowed but modified from:
+http://bradthemad.org/tech/notes/fortune_makefile.php
+
+To create fortunes, simply write them in text files, separated by %.
+Run 'make' every time you update a file.
+Feel free to add or delete files.
+Every fortune file comes with a .dat file.
